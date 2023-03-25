@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accorfion-task/static/css/main.073c9b0a.css",
+    "main.js": "/accorfion-task/static/js/main.ba938cd4.js",
+    "index.html": "/accorfion-task/index.html",
+    "main.073c9b0a.css.map": "/accorfion-task/static/css/main.073c9b0a.css.map",
+    "main.ba938cd4.js.map": "/accorfion-task/static/js/main.ba938cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba938cd4.js"
+  ]
+}
